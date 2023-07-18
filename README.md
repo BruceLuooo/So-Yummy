@@ -16,7 +16,7 @@ Built with Typescript, React.js, MongoDB, Node.js, Express.js
 ```bash 
 //Frontend
 
-cd Frontend
+cd frontend
 npm install
 npm start
 
@@ -24,7 +24,7 @@ npm start
 
 *Requires .env file
 
-cd Backend
+cd backend
 npm install
 npm run server
 ```
